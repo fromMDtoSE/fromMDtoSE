@@ -1,3 +1,6 @@
+![Cover image](https://github.com/fromMDtoSE/fromMDtoSE/assets/50740979/aeecf0b3-760e-4cf0-9684-26cee4e6fd0c)
+---
+
 # 💫 About Me:
 
 👋 Hi, I’m @fromMDtoSE (Yes I have an MD, but hated Medicine, so left it and now working towards a creer in Software Engineering)
