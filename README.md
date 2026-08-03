@@ -30,3 +30,7 @@ Azure and cloud architecture · distributed systems and consensus · LLM/RAG eng
 ### Reach me
 
 **raedmazahreh@gmail.com** · [LinkedIn](https://www.linkedin.com/in/raed-mazahreh/)
+
+### Open-source contributions
+
+- [Bitween](https://github.com/simplify9/Bitween-api) — integration middleware, adopted by 10+ clients ([PRs](https://github.com/simplify9/Bitween-api/pulls?q=is:pr+author:fromMDtoSE))
