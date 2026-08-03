@@ -1,42 +1,32 @@
-![Cover image](https://github.com/fromMDtoSE/fromMDtoSE/assets/50740979/aeecf0b3-760e-4cf0-9684-26cee4e6fd0c)
----
+## Raed Mazahreh
 
-# 💫 About Me:
+**Senior Software Engineer.** MD by training, engineer by trade.
 
-👋 Hi, I’m @fromMDtoSE (Yes I have an MD, but hated Medicine, so left it and now working towards a creer in Software Engineering)
-- 👀 I’m interested in becoming a complete asset. No one can learn everything, I know! In fact, the deeper I dive into the world of Software development, the more I am convined in how huge it is and how far Humans have gotten over the years.
-- 🌱 I’m currently learning C# (ASP.NET Core and EF Core with PostgreSQL), JaveScript and React, Bash scripting, Docker and containerization, and algorithms and data structures.
-- 💞️ I’m looking to collaborate on (not yet actually! I don't think am good enough to work on any big project with anyone!)
-- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/raed-mazahreh/)
+I build and own production systems in C# / ASP.NET Core, PostgreSQL, React, and React Native.
+Currently technical owner of five live products at [Simplify9](https://simplify9.com), across
+logistics and freight, multi-tenant HR SaaS, food delivery, and enterprise integration platforms.
 
-<!---
-fromMDtoSE/fromMDtoSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my production work lives in private client repositories, so this profile is thinner
+than my CV. Happy to talk through architecture and tradeoffs on any of it.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raed-mazahreh/) 
+### How I got here
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=frommdtose&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=frommdtose&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frommdtose&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+A medical degree from the University of Jordan, then a licensure year in a hospital. Then two
+years with a US mortgage lender out of their Amman office — I started in operations validating
+closed loan files, moved into the software team, learned C#, and spent my time automating the
+exact manual work I'd been doing by hand.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=frommdtose&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+Medicine teaches you to reason under uncertainty with incomplete information and real
+consequences. That turns out to be most of engineering.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Working with
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=frommdtose&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+`C#` · `ASP.NET Core` · `Entity Framework` · `PostgreSQL` · `React` · `React Native` · `TypeScript` · `REST APIs` · `Git`
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### Going deeper on
 
----
-[![](https://visitcount.itsvg.in/api?id=frommdtose&icon=0&color=1)](https://visitcount.itsvg.in)
+Azure and cloud architecture · distributed systems and consensus · LLM/RAG engineering
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Reach me
+
+**raedmazahreh@gmail.com** · [LinkedIn](https://www.linkedin.com/in/raed-mazahreh/)
